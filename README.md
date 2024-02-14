@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abdulkareem3333
+- 👋 Hi, I’m @abdulkareem
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning git
 - 💞️ I’m looking to collaborate on coding
